@@ -22,7 +22,11 @@ And now, without further ado...
   which can be confusing unless real estate data is your main beat. I
   reported on it [last June](https://ctmirror.org/2017/06/16/latest-house-price-index-connecticut-growth-continues-to-lag/),
   following a quarterly report, and explained a bit about how the price
-  indexes work. It looks like the next quarterly report comes out in May.  
+  indexes work. It looks like the next quarterly report comes out in May.
+  Another good source of house sales data is
+  [Realtor.com](https://www.realtor.com/research/data/)'s data page, which
+  has county-level data including time on market and inventory and other
+  stuff Realtors and housing market watchers tend to look at.
 
 * __Standardized test scores__ - [The Nations Report card](https://www.nationsreportcard.gov/ndecore/landing) publishes
   standardized test scores for every state every couple of years. On
