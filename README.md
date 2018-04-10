@@ -24,3 +24,12 @@ And now, without further ado...
   following a quarterly report, and explained a bit about how the price
   indexes work. It looks like the next quarterly report comes out in May.  
 
+* __Standardized test scores__ - [The Nations Report card](https://www.nationsreportcard.gov/ndecore/landing) publishes
+  standardized test scores for every state every couple of years. On
+  Tuesday, a media embargo was lifted on data released Friday comparing
+  performance on a number of different subgroups for 4th and 8th graders
+  taking Common Core tests. Here's our story from
+  [CTMirror.org](https://ctmirror.org/2018/04/10/cts-performance-nations-report-card-doesnt-budge/),
+  and [my code](https://github.com/jakekara/nations-report-card-2017) clean
+  up some of the data for our interactive graphics.
+  
